@@ -1,0 +1,11 @@
+import numpy
+from numpy import *
+
+"""
+Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+"""
+def sumsquaredif():
+
+sumsquare = xrange(i,101)^2
+squaresum= xrange(n^2,101)
+    return diff = abs(squaresum-sumsquare)
